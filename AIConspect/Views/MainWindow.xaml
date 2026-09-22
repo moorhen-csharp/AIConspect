@@ -18,7 +18,7 @@
 
     <Grid>
         <!-- ════════════════════════════════════════════
-             ЭКРАН ВЫБОРА ПРОФИЛЯ
+             ЭКРАН  ПРОФИЛЯ
              ════════════════════════════════════════════ -->
         <Grid Visibility="{Binding IsProfileSelectionVisible, Converter={StaticResource BooleanToVisibilityConverter}}">
             <Grid.RowDefinitions>
